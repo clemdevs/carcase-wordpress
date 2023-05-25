@@ -2,7 +2,7 @@
 
 See `.env-example` for database configuration and login credentials.
 
-# Setup
+## Setup
 - Clone the repo using the command ``git clone --recurse-submodules https://github.com/clemdevs/carcase-wordpress.git``
 - Setup virtualhost 
 
