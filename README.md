@@ -20,8 +20,8 @@ See `.env-example` for database configuration and login credentials.
 </VirtualHost>
 ```
 
-- In the theme's folder `wp-content/themes/carcase`, run the following commands
--- `npm install` 
--- `npm audit fix`
--- `npm run watch`
+- In the theme's folder `wp-content/themes/carcase`, run the following commands:
+ - `npm install` 
+ - `npm audit fix`
+ - `npm run watch`
 - Do the same commands for `wp-content/themes/carcase-child`
