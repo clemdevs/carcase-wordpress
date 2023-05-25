@@ -27,6 +27,6 @@ See `.env-example` for database configuration and login credentials.
 - Run the same commands for `wp-content/themes/carcase-child`
 
 
-## In Wordpress admin panel
+### In Wordpress admin panel
 - Go to `Settings -> Permalinks` and hit `Update` to update the permalinks
 - Make sure that the child theme is selected as the active theme (by default it should be active)
