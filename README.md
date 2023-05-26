@@ -27,5 +27,5 @@
 
 
 ### In Wordpress admin panel
-- Go to `Settings -> Permalinks` and hit `Update` to update the permalinks
 - Make sure that the child theme is selected as the active theme (by default it should be active)
+- Go to `Settings -> Permalinks` and hit `Save Changes` to update the permalinks
